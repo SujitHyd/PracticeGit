@@ -6,5 +6,4 @@ public class ClassOne {
 		System.out.println("Hello Eclipse");
 
 	}
-
 }
